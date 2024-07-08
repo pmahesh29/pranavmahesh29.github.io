@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/www.pranavmahesh29.com/static/css/main.866ca48e.css",
-    "main.js": "/www.pranavmahesh29.com/static/js/main.b437bb91.js",
-    "static/js/453.253ccfac.chunk.js": "/www.pranavmahesh29.com/static/js/453.253ccfac.chunk.js",
-    "static/media/Photon.jpg": "/www.pranavmahesh29.com/static/media/Photon.9957fce27305b2125e8e.jpg",
-    "static/media/pranav_photo.jpg": "/www.pranavmahesh29.com/static/media/pranav_photo.912a1fb3030c155b2767.jpg",
-    "index.html": "/www.pranavmahesh29.com/index.html",
-    "main.866ca48e.css.map": "/www.pranavmahesh29.com/static/css/main.866ca48e.css.map",
-    "main.b437bb91.js.map": "/www.pranavmahesh29.com/static/js/main.b437bb91.js.map",
-    "453.253ccfac.chunk.js.map": "/www.pranavmahesh29.com/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/static/css/main.866ca48e.css",
+    "main.js": "/static/js/main.a8cdf52b.js",
+    "static/js/453.253ccfac.chunk.js": "/static/js/453.253ccfac.chunk.js",
+    "static/media/Photon.jpg": "/static/media/Photon.9957fce27305b2125e8e.jpg",
+    "static/media/pranav_photo.jpg": "/static/media/pranav_photo.912a1fb3030c155b2767.jpg",
+    "index.html": "/index.html",
+    "main.866ca48e.css.map": "/static/css/main.866ca48e.css.map",
+    "main.a8cdf52b.js.map": "/static/js/main.a8cdf52b.js.map",
+    "453.253ccfac.chunk.js.map": "/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.866ca48e.css",
-    "static/js/main.b437bb91.js"
+    "static/js/main.a8cdf52b.js"
   ]
 }
