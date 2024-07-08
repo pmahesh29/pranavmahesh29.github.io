@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pranavmahesh29.github.io/static/css/main.866ca48e.css",
+    "main.js": "/pranavmahesh29.github.io/static/js/main.70821d8e.js",
+    "static/js/453.253ccfac.chunk.js": "/pranavmahesh29.github.io/static/js/453.253ccfac.chunk.js",
+    "static/media/Photon.jpg": "/pranavmahesh29.github.io/static/media/Photon.9957fce27305b2125e8e.jpg",
+    "static/media/pranav_photo.jpg": "/pranavmahesh29.github.io/static/media/pranav_photo.912a1fb3030c155b2767.jpg",
+    "index.html": "/pranavmahesh29.github.io/index.html",
+    "main.866ca48e.css.map": "/pranavmahesh29.github.io/static/css/main.866ca48e.css.map",
+    "main.70821d8e.js.map": "/pranavmahesh29.github.io/static/js/main.70821d8e.js.map",
+    "453.253ccfac.chunk.js.map": "/pranavmahesh29.github.io/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866ca48e.css",
+    "static/js/main.70821d8e.js"
+  ]
+}
