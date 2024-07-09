@@ -1,0 +1,17 @@
+.about {
+    padding: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .about-photo {
+    max-width: 300px; /* Adjust the width as needed */
+    margin-right: 20px; /* Space between image and text */
+  }
+  
+  .about-content p {
+    flex: 1;
+  }
